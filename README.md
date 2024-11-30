@@ -11,6 +11,7 @@
 - <span style="color: #e9c46a;">TLS1.2</span>
 - <span style="color: #f4a261;">TLS1.3</span>
 - <span style="color: #2a9d8f;">Cloudflare Protection</span>
+- <span style="color: #2a9d8f;">Cloudflare Nosec</span>
 - <span style="color: #e63946;">Socket Layer</span>
 
 ---
